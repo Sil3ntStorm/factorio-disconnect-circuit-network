@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1153
+Date: 2022-01-22
+
+  Features:
+    - Adds a selection tool (CTRL + D) that disconnects all circuit wires of selected entities
